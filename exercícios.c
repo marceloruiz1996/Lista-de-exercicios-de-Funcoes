@@ -1,5 +1,3 @@
-# Lista de exercícios de Funções
-
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
