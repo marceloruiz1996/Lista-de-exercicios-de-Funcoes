@@ -1,2 +1,2 @@
-# Lista-de-exercicios-de-Funcoes
+# Lista de exercícios de Funções
  15 exercicíos de funções
